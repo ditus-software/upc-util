@@ -1,0 +1,13 @@
+{
+  "allowCompoundWords": true,
+  "words": [
+    "DITUS"
+  ],
+  "ignorePaths": [
+    ".config",
+    ".eslintcache",
+    ".vscode",
+    "bin",
+    "package-lock.json"
+  ]
+}
