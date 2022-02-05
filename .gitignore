@@ -2,6 +2,9 @@
 **/TestResults
 **/appsettings.Development.json
 **/bin
+**/dist
+**/coverage
+**/node_modules
 **/lcov.info
 **/obj
 *.jks
@@ -14,7 +17,5 @@
 .expo/
 .sonarqube/**
 coverage.opencover.xml
-dist
-node_modules
 npm-debug.*
 web-build/

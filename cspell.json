@@ -1,7 +1,8 @@
 {
   "allowCompoundWords": true,
   "words": [
-    "DITUS"
+    "DITUS",
+    "Roadmap"
   ],
   "ignorePaths": [
     ".config",
