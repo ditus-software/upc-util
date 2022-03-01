@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{67124a20-c101-4593-b4dc-59f666521460}") = "Ditus.Upc", "DotNet\Ditus.Upc\Ditus.Upc.csproj", "{9b566c07-8058-4d01-bf74-147bca614b82}"
+EndProject
+Project("{67124a20-c101-4593-b4dc-59f666521460}") = "Ditus.Upc.Test", "DotNet\Ditus.Upc.Test\Ditus.Upc.Test.csproj", "{509540be-57e5-4e6b-b749-523da8755113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9b566c07-8058-4d01-bf74-147bca614b82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9b566c07-8058-4d01-bf74-147bca614b82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9b566c07-8058-4d01-bf74-147bca614b82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9b566c07-8058-4d01-bf74-147bca614b82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509540be-57e5-4e6b-b749-523da8755113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509540be-57e5-4e6b-b749-523da8755113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509540be-57e5-4e6b-b749-523da8755113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509540be-57e5-4e6b-b749-523da8755113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
