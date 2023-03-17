@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io:/github/license/ditus-software/upc-util)](LICENSE)
 [![JS Build/Test](https://github.com/ditus-software/upc-util/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ditus-software/upc-util/actions/workflows/node.js.yml)
+[![JS Coverage Status](https://coveralls.io/repos/github/ditus-software/upc-util/badge.svg?branch=master)](https://coveralls.io/github/ditus-software/upc-util?branch=master)
 [![.NET Build/Test](https://github.com/ditus-software/upc-util/actions/workflows/dotnet.yml/badge.svg?branch=master)](https://github.com/ditus-software/upc-util/actions/workflows/dotnet.yml)
 [![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 
